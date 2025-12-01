@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "謎",
+  "base_artist": "小松未歩",
+  "createdAt": "2025-12-01T15:28:53.362401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "小松未歩",
+      "has_synced": true,
+      "path": "select/01_謎_小松未歩.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "小松未歩",
+      "has_synced": true,
+      "path": "select/02_謎_小松未歩.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "La PomPon",
+      "has_synced": true,
+      "path": "select/03_謎_La_PomPon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "MAKI",
+      "has_synced": false,
+      "path": "select/04_謎_MAKI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "Tanya Chua",
+      "has_synced": true,
+      "path": "select/05_謎_Tanya_Chua.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "許慧欣",
+      "has_synced": false,
+      "path": "select/06_謎_許慧欣.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君+謎+私でJUMP!! (off vocal)",
+      "artist": "Larval Stage Planning",
+      "has_synced": true,
+      "path": "select/07_君+謎+私でJUMP!!_(off_vocal)_Larval_Stage_Planning.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君+謎+私でJUMP!!",
+      "artist": "Larval Stage Planning",
+      "has_synced": true,
+      "path": "select/08_君+謎+私でJUMP!!_Larval_Stage_Planning.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "小松未歩",
+      "has_synced": true,
+      "path": "select/09_謎_小松未歩.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "La PomPon",
+      "has_synced": true,
+      "path": "select/10_謎_La_PomPon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "小松未步",
+      "has_synced": true,
+      "path": "select/11_謎_小松未步.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "謎-HIROSHI’s secret of life mix-",
+      "artist": "小松未歩",
+      "has_synced": false,
+      "path": "select/12_謎-HIROSHI’s_secret_of_life_mix-_小松未歩.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "艾福傑尼",
+      "has_synced": false,
+      "path": "select/13_謎_艾福傑尼.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "謎",
+      "artist": "Jackie Chan",
+      "has_synced": true,
+      "path": "select/14_謎_Jackie_Chan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "謎謎",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_謎謎_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "謎",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_02_謎_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "謎が導くなら",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_03_謎が導くなら_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "謎",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_04_謎_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "謎",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_05_謎_RADWIMPS.txt"
+    }
+  ]
+}
